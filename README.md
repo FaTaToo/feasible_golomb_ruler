@@ -1,0 +1,2 @@
+# feasible_golomb_ruler
+The goal of this project is to create the Python program ‘feasible_golomb_ruler.py’, which interacts with the user to generate a feasible Golomb ruler. The program requests from the user a valid integer ranging from 4 to 8. This number determines the size of the ruler we want to achieve { m 0 , m 1 , ..., m n-1 }. After an initial random generation of the marks of the ruler, the program provides a small set of supported commands, which the user can apply to modify such these marks { m 0 , m 1 , ..., m n-1 }.
